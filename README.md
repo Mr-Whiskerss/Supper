@@ -12,9 +12,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-ready-E8A92A">
 </p>
 
-<p align="center">
-  <img src="docs/screenshots/week.png" alt="Supper's weekly plan: seven days, each with a dinner, one locked and Saturday marked as eating out" width="820">
-</p>
 
 Supper plans your week for you. Press one button and every empty day gets a dinner, picked from 30
 built-in recipes plus any you add yourself. Don't fancy something? Reroll it. Love it? Lock it.
