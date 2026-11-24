@@ -49,15 +49,6 @@ in the house sees the same plan from their phone or laptop.
 - Follows your device's light or dark mode
 - No account, no tracking, no external services (apart from optional web fonts and link imports)
 
-## Screenshots
-
-| Recipes | A recipe |
-| --- | --- |
-| <img src="docs/screenshots/recipes.png" alt="The recipe library with tag filters" width="400"> | <img src="docs/screenshots/recipe.png" alt="A recipe with ingredients and method" width="400"> |
-
-| Shopping list | On a phone, dark mode |
-| --- | --- |
-| <img src="docs/screenshots/shopping.png" alt="The combined shopping list with items ticked off" width="400"> | <img src="docs/screenshots/mobile-dark.png" alt="The weekly plan on a phone in dark mode" width="200"> |
 
 ## Installation
 
